@@ -1,0 +1,1 @@
+This activity is meant to provide students with practice with C# and Source Control, as well as teach how to manipulate integers in C#.
